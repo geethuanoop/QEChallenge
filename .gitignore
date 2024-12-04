@@ -1,0 +1,15 @@
+#inteliJ
+.idea/
+target/
+*.iml
+
+#logs
+logs/
+
+#test reports
+test-output/
+*.html
+
+
+
+
